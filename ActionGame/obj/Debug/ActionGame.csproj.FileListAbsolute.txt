@@ -1,0 +1,9 @@
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\bin\Debug\DxLibW.dll
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\bin\Debug\DxLibW_x64.dll
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\bin\Debug\ActionGame.exe.config
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\bin\Debug\ActionGame.exe
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\bin\Debug\ActionGame.pdb
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\obj\Debug\ActionGame.csprojAssemblyReference.cache
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\obj\Debug\ActionGame.csproj.CoreCompileInputs.cache
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\obj\Debug\ActionGame.exe
+C:\Users\haru1\Desktop\制作班　6班\ActionGame\obj\Debug\ActionGame.pdb
